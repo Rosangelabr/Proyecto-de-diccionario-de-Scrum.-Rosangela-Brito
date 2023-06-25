@@ -1,0 +1,47 @@
+[agroturismo]. Turismo rural, especialmente el que incluye actividades agricolas y ganaderas.
+[asterisco]. Tipo de caracter
+[amniocentesis]. Procedimiento de obtencion de muestras de liquido amniotico mediante puncion abdominal de la pared del utero.
+[anisakis]. Gusano nematodo parasito cuyas larvas se encuentran ocasionalmente en algunos peces.
+[antiarrugas]. Que previene o combate las arrugas. Crema antiarrugas. 
+[basurita]. Particula de suciedad, especialmente la que se introduce en el ojo.
+[cameo]. Intervencion breve de un personaje celebre, actor o no, en una pelicula o una serie de television.
+[chupi]. Muy bueno o estupendo.
+[ciclogenesis]. Formacion de un ciclon.
+[empoderar]. Hacer poderoso o fuerte a un individuo o grupo social desfavorecido.
+[externalizar]. Encomendar la realizacion de tareas o servicios propios a otra empresa. 
+[hacker]. Pirata informatico.
+[homoparental]. Dicho de una familia: Formada por dos personas del mismo sexo y los hijos. 
+[intranet]. Red electronica de informacion interna de una empresa o institucion.
+[localizador]. Clave alfanumerica de busqueda e identificacion de un documento. El localizador de un billete de avion.
+[lonchera]. Recipiente pequeno, de plastico u otro material, que sirve para llevarcomida ligera. 
+[posproduccion]. Fase posterior al rodaje de una pelicula o a la realizacion de un producto audiovisual o radiofonico.
+[precuela]. Obra literaria o cinematografica que cuenta hechos que preceden a los de otra obra ya existente.
+[serendipia]. Hallazgo valioso que se produce de manera accidental o casual. 
+[tunear]. Adaptar algo, especialmente un vehiculo, a los gustos o intereses personales.
+[wifi]. Sistema de conexion inalambrica, dentro de un area determinada, entre dispositivos electronicos.
+[abdominal]. Ejercicio que sirve para desarrollar, fortalecer y mantener en buen estado los musculos abdominales. 
+[botellon]. Reunion al aire libre de jovenes, ruidosa y generalmente nocturna, en la que se consumen en abundancia bebidas alcoholicas.
+[buscador]. Programa que permite acceder a informacion en internet sobre un tema determinado.
+[caballito]. Maniobra acrobatica que consiste en levantar en marcha unamoto o una bicicleta sobre su rueda trasera. 
+[cooperante]. Persona que trabaja en proyectos de cooperacion internacional para ayuda al desarrollo o ayuda humanitaria.
+[definicion]. Capacidad que tiene un instrumento optico, una pelicula fotografica o una pantalla de television de reproducir imagenes con nitidez. 
+[egresar]. Salir de un establecimiento do cente despues de haber terminado los estudios.
+[gondola]. expositor.
+[hibrido]. Dicho de un motor y, por ext., de un vehiculo: Que puedefuncionar tanto con combustible como con electricidad.
+[iluminado]. Dicho de una persona: Que, sin atender a razonamientos, cree estar en posesión de la verdad absoluta.
+[intervencionismo]. Tendencia de los poderes publicos a intervenir en asuntos que competen a la sociedad civil.
+[isleta]. En una via publica, area de la calzada, pavimentada y ligeramente elevada, que sirve de refugio a peatones.
+[liberar]. Eliminar las restricciones operativas de un telefono movil con unadeterminada compañia telefonica.
+[margarita]. Coctel preparado con tequila, licor de naranja y zumo de lima o limon.
+[migracion]. Paso de los programas, archivos y datos de un sistema desde una determinada plataforma tecnologica a otra diferente.
+[mutar]. Sufrir mutacion.
+[narrativa]. Relativo a la narracion.
+[pantallazo]. Captura del contenido que se visualiza en la pantalla de una computadora.
+[papillote]. Envoltorio, generalmente de papel de hornear o de aluminio, en el que se cocina un alimento al vapor o al horno.
+[pasarela]. En un aeropuerto, tunel articulado que comunica el edificio de la terminal con un avion para el embarque y desembarque de los pasajeros.
+[patalear]. Manifestar protesta o queja, especialmente cuando es inutil.
+[criado]. Persona que sirve a otra, en especial en las tareas domesticas.
+[prontuario]. Documento en el que constan los antecedentes penales de una persona.
+[reclamo]. Reclamacion. Oposicion a algo considerado injusto.
+[tableta]. Dispositivo electronico portatil con pantalla tactil y con multiples prestaciones.
+
